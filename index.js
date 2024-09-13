@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Hört Inder Zu"];
+const statusMessages = ["Verwaltet MVRP"];
 
 
 let currentIndex = 0;
